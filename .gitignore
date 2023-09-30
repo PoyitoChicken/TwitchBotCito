@@ -1,3 +1,4 @@
 .env
 generate_tokens
 node_modules
+package-lock.json
