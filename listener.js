@@ -39,4 +39,9 @@ async function wsockListener(client){
     });
 
 }
+// Create a server and pass in the Express app
+const listener = async = (event) {
+    console.log(event);
+}
+//Add dotenv and shit
 wsockOpenConnection();
